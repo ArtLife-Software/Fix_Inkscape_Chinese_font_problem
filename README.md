@@ -1,5 +1,7 @@
 # Inkscape 中文字型問題完整解決教學（Windows）
 
+![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/Fix_Inkscape_Chinese_font_problem/total?style=flat-square&logo=github)
+
 Oct 14, 2026 · @linyancheng
 
 ## 👤 發布
